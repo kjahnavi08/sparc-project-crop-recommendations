@@ -25,7 +25,7 @@ This results in suboptimal crop selection and inefficient fertilizer usage.
 
 ## Methodology
 
-![System Architecture](docs/epics_Methodolody.jpg)
+![System Architecture](docs/epics_methodology.png)
 
 The system integrates environmental factors into a unified decision model:
 
