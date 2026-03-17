@@ -62,10 +62,10 @@ A **Crop Suitability Index (CSI)** is computed using weighted parameters, along 
 
 ## Prototype
 
-![Prototype 1](docs/prototype1.png)
-![Prototype 2](docs/prototype2.png)
-![Prototype 3](docs/prototype3.png)
-![Prototype 4](docs/prototype4.png)
+![Prototype 1](docs/home.png)
+![Prototype 2](docs/recs.png)
+![Prototype 3](docs/pollutants.png)
+![Prototype 4](docs/ocr.png)
 
 ---
 
